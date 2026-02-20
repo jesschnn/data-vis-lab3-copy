@@ -1,0 +1,32 @@
+<script>
+    export let data = {};
+</script>
+
+<article>
+    <h2>{data.title}</h2>
+    <img src={data.image} alt="">
+    <p>{data.description}</p>
+</article>
+
+
+<style>
+    img {
+    max-width: 100%
+    }
+
+    article {
+    display: grid;
+    grid-template-rows: subgrid;
+    grid-row: span 3;
+    }
+
+    h2 {
+    margin: 0;
+    font-size: 1.5em;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+    line-height: 1.1;
+    text-wrap: balance;
+    }
+</style>

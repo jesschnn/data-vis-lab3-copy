@@ -1,0 +1,17 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "images/TheGreatGatsbyCover.JPG"
+  },
+  {
+    "title": "Survival of the Sickest",
+    "author": "Dr. Sharon Moalem with Jonathan Prince",
+    "image": "images/SurvivalOfTheSickestCover.jpg"
+  },
+  {
+    "title": "The Sympathizer",
+    "author": "Viet Thanh Nguyen",
+    "image": "images/TheSympathizerCover.jpg"
+  }
+]

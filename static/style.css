@@ -3,7 +3,7 @@ body {
     and use the OS’s UI font as the website font
   */
  font: 100%/1.5 system-ui;
- max-width: 80em;
+ max-width: 100em;
  margin-inline: max(1em, (100% - 80ch) / 2);
  accent-color: var(--color-accent);
 }
@@ -163,5 +163,4 @@ time {
 /* custom properties */
 :root {
   --color-accent: oklch(72.67% 0.13637 241.512);
-
 }
