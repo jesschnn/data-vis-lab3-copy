@@ -33,7 +33,7 @@
 <br>
 <nav>
     {#each pages as p}
-        <a href={base + p.url}
+        <a href={p.url.startsWith("https") ? p.url : base + p.url}
             class:current={p.url === "/" // is this link the home page?
             ? $page.url.pathname === (base + "/") // if yes - set current = true if the path name matches. Else, set current = true if the path name starts correctly
             : $page.url.pathname.startsWith(base + p.url)}
