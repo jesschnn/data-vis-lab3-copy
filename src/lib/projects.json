@@ -2,63 +2,63 @@
   {
     "title": "Purrfect Match: AI Adoption",
     "year": 2024,
-    "image": "/images/proj1.jpeg",
+    "image": "images/proj1.jpeg",
     "description": "An advanced neural network designed to match rescue cats with compatible owners based on personality traits and living environments. It significantly reduced shelter return rates by 40% in its first year.",
     "story": "I started this after my own cat, Biscuit, spent three months in a shelter because people didn't realize he was a 'high-energy' breed."
   },
   {
     "title": "Whisker-Wise IoT Feeder",
     "year": 2024,
-    "image": "/images/proj2.jpeg",
+    "image": "images/proj2.jpeg",
     "description": "A hardware-software integration that uses facial recognition to ensure multi-cat households get their specific dietary portions, preventing 'food theft' from greedy siblings.",
     "story": "Built because my orange tabby kept eating the kitten's expensive prescription food."
   },
   {
     "title": "Midnight Zoomies Tracker",
     "year": 2024,
-    "image": "/images/proj3.jpeg",
+    "image": "images/proj3.jpeg",
     "description": "A wearable accelerometer and data visualization suite that maps the intensity and frequency of a cat's nightly activity bursts, providing health insights to owners.",
     "story": "I wanted to know exactly why I was hearing a thundering stampede at 3:00 AM every single Tuesday."
   },
   {
     "title": "Catio Architectural Designs",
     "year": 2025,
-    "image": "/images/proj4.jpeg",
+    "image": "images/proj4.jpeg",
     "description": "A collection of modular, open-source 3D blueprints for safe outdoor enclosures. Focused on sustainability and integrating vertical space for feline enrichment.",
     "story": "Designed for indoor cats who want a taste of the wild without the danger of local predators or traffic."
   },
   {
     "title": "MeowLingo: Audio Analytics",
     "year": 2025,
-    "image": "/images/proj5.jpeg",
+    "image": "images/proj5.jpeg",
     "description": "A signal processing project that analyzes frequency and pitch in cat vocalizations to classify them into 'Hunger,' 'Play,' or 'General Discontent.'",
     "story": "Attempting to scientifically prove that my cat's 6:00 AM meow is, in fact, an emergency."
   },
   {
     "title": "The Great Catnip Study",
     "year": 2025,
-    "image": "/images/proj6.jpeg",
+    "image": "images/proj6.jpeg",
     "description": "A crowdsourced data project mapping the genetic response to Nepeta cataria across different feline breeds, visualized through interactive global heatmaps.",
     "story": "A collaborative effort with 500 volunteer cat owners to see if breed truly dictates the 'nip' response."
   },
   {
     "title": "Feline Fluid Dynamics",
     "year": 2026,
-    "image": "/images/proj7.jpeg",
+    "image": "images/proj7.jpeg",
     "description": "A physics simulation exploring the hypothesis that cats are technically liquid, modeling their ability to fit into containers of any shape or size.",
     "story": "Inspired by the Ig Nobel Prize-winning research on the rheology of cats."
   },
   {
     "title": "LaserBot 9000",
     "year": 2026,
-    "image": "/images/proj8.jpeg",
+    "image": "images/proj8.jpeg",
     "description": "An automated, random-path laser pointer controlled via a web interface, allowing owners to play with their pets remotely from the office.",
     "story": "The ultimate solution for the 'guilty worker' who misses their feline friend during the 9-to-5."
   },
   {
     "title": "Cat-in-the-Box Census",
     "year": 2026,
-    "image": "/images/proj9.jpeg",
+    "image": "images/proj9.jpeg",
     "description": "An image recognition app that identifies and catalogs the specific types of cardboard boxes cats prefer, using computer vision to measure box-to-cat ratios.",
     "story": "Final confirmation that no matter how expensive the toy is, the box it came in is always superior."
   }
