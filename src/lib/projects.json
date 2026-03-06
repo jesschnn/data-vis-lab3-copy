@@ -1,65 +1,65 @@
 [
   {
-    "title": "Lorem ipsum dolor sit.",
-    "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia eveniet at dicta dolore excepturi, inventore vel repellendus facere, similique neque nemo iure vero pariatur sed quae iste magni ducimus commodi!",
-    "story": "placeholder text"
+    "title": "Purrfect Match: AI Adoption",
+    "year": 2024,
+    "image": "/images/proj1.jpeg",
+    "description": "An advanced neural network designed to match rescue cats with compatible owners based on personality traits and living environments. It significantly reduced shelter return rates by 40% in its first year.",
+    "story": "I started this after my own cat, Biscuit, spent three months in a shelter because people didn't realize he was a 'high-energy' breed."
   },
   {
-    "title": "Perferendis nulla nisi repudiandae!",
-    "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Quisquam blanditiis tenetur voluptas exercitationem, perferendis labore eius enim, non totam incidunt deserunt magnam numquam alias debitis inventore! Perspiciatis nisi tempore quidem voluptates recusandae, nostrum sint facilis? Nisi, recusandae voluptatum?",
-    "story": "placeholder"
+    "title": "Whisker-Wise IoT Feeder",
+    "year": 2024,
+    "image": "/images/proj2.jpeg",
+    "description": "A hardware-software integration that uses facial recognition to ensure multi-cat households get their specific dietary portions, preventing 'food theft' from greedy siblings.",
+    "story": "Built because my orange tabby kept eating the kitten's expensive prescription food."
   },
   {
-    "title": "Ea sapiente nostrum fugiat.",
-    "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Corporis vel cumque porro sit rerum hic magni delectus, quaerat maiores tempora suscipit voluptatum nemo asperiores odio reiciendis, assumenda dolores architecto rem consequuntur mollitia eum placeat? Delectus totam culpa perspiciatis?",
-    "story": "placeholder"
+    "title": "Midnight Zoomies Tracker",
+    "year": 2024,
+    "image": "/images/proj3.jpeg",
+    "description": "A wearable accelerometer and data visualization suite that maps the intensity and frequency of a cat's nightly activity bursts, providing health insights to owners.",
+    "story": "I wanted to know exactly why I was hearing a thundering stampede at 3:00 AM every single Tuesday."
   },
   {
-    "title": "Incidunt fuga iste asperiores?",
-    "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Unde fugiat, blanditiis quibusdam, earum porro impedit odio, aut ipsam cumque delectus perspiciatis tempore eum! Culpa, quia quo. Ipsam animi officia fuga doloremque aperiam, architecto labore facilis in quasi ratione?",
-    "story": "placeholder"
+    "title": "Catio Architectural Designs",
+    "year": 2025,
+    "image": "/images/proj4.jpeg",
+    "description": "A collection of modular, open-source 3D blueprints for safe outdoor enclosures. Focused on sustainability and integrating vertical space for feline enrichment.",
+    "story": "Designed for indoor cats who want a taste of the wild without the danger of local predators or traffic."
   },
   {
-    "title": "Ad repellat laborum cupiditate!",
-    "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Nisi omnis cum saepe assumenda. Sunt architecto eum nemo harum labore saepe deserunt dolores repudiandae laborum, praesentium sint eaque vitae recusandae impedit, asperiores facilis facere! Non voluptatibus quod cupiditate quam!",
-    "story": "placeholder"
+    "title": "MeowLingo: Audio Analytics",
+    "year": 2025,
+    "image": "/images/proj5.jpeg",
+    "description": "A signal processing project that analyzes frequency and pitch in cat vocalizations to classify them into 'Hunger,' 'Play,' or 'General Discontent.'",
+    "story": "Attempting to scientifically prove that my cat's 6:00 AM meow is, in fact, an emergency."
   },
   {
-    "title": "Facere repellat laudantium labore!",
-    "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Quo quod repellat dolorem enim ad perferendis asperiores ipsum consectetur facere placeat quasi accusamus aut, quisquam animi in impedit laboriosam cupiditate ipsam voluptatum reprehenderit. Consequatur ex minima iste non eos.",
-    "story": "placeholder"
+    "title": "The Great Catnip Study",
+    "year": 2025,
+    "image": "/images/proj6.jpeg",
+    "description": "A crowdsourced data project mapping the genetic response to Nepeta cataria across different feline breeds, visualized through interactive global heatmaps.",
+    "story": "A collaborative effort with 500 volunteer cat owners to see if breed truly dictates the 'nip' response."
   },
   {
-    "title": "Facilis voluptatum quidem doloribus.",
+    "title": "Feline Fluid Dynamics",
     "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Veritatis ut pariatur quisquam ad quibusdam dolorem facilis deserunt dicta at possimus accusamus, sequi ducimus provident distinctio? Nam natus ab inventore saepe, itaque distinctio animi aut cupiditate provident facilis eligendi.",
-    "story": "placeholder"
+    "image": "/images/proj7.jpeg",
+    "description": "A physics simulation exploring the hypothesis that cats are technically liquid, modeling their ability to fit into containers of any shape or size.",
+    "story": "Inspired by the Ig Nobel Prize-winning research on the rheology of cats."
   },
   {
-    "title": "Ut illum perferendis at!",
+    "title": "LaserBot 9000",
     "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Necessitatibus placeat nostrum consequatur repellendus dolorum fuga aut harum excepturi, ab in sed? Pariatur illo unde quasi excepturi, sapiente ducimus deleniti, laudantium ipsa sint magni laborum accusamus ad nesciunt atque!",
-    "story": "placeholder"
+    "image": "/images/proj8.jpeg",
+    "description": "An automated, random-path laser pointer controlled via a web interface, allowing owners to play with their pets remotely from the office.",
+    "story": "The ultimate solution for the 'guilty worker' who misses their feline friend during the 9-to-5."
   },
   {
-    "title": "Numquam temporibus minima ut!",
+    "title": "Cat-in-the-Box Census",
     "year": 2026,
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Quos natus cumque recusandae! Suscipit velit tempora ipsa odit, aliquid qui fugiat provident delectus excepturi? Dolorum fugit a ut? Sapiente eligendi porro similique eaque voluptatum iusto vero quia obcaecati vel.",
-    "story": "placeholder"
+    "image": "/images/proj9.jpeg",
+    "description": "An image recognition app that identifies and catalogs the specific types of cardboard boxes cats prefer, using computer vision to measure box-to-cat ratios.",
+    "story": "Final confirmation that no matter how expensive the toy is, the box it came in is always superior."
   }
 ]
