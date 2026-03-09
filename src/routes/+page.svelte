@@ -15,14 +15,17 @@
   onMount(async () => {
     try {
         console.log("Page has been mounted!")
+        let response = await fetch("https://api.github.com/users/jesschnn");
+        /*
         let response = await {
             ok: true,
             json: async () => ({
                 followers: 100,
                 following: 100,
-                public_repos: 100
+                public_repos: 100,
+                public_gists: 100,
             }),
-        };
+        }; */
         console.log(response);
         githubData = await response.json();
         console.log(githubData);

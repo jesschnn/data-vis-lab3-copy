@@ -1,17 +1,18 @@
 <script>
     export let data = {};
+    import { base } from "$app/paths";
 </script>
 
 <article>
     <h2>{data.title}</h2>
-    <img src={data.image} alt="">
+    <img src={base + data.image} alt="">
     <p>{data.description}</p>
 </article>
 
 
 <style>
     img {
-    max-width: 100%
+    max-width: 100%;
     }
 
     article {
